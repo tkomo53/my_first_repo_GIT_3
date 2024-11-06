@@ -1,0 +1,2 @@
+utworzono plik drugi_plik.txt oraz wpisano do niego treść "Lorem ipsum dolor…"
+następnie zedytowano plik nowy_plik.txt dodając do niego treść "Hello world"
