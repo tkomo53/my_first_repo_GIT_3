@@ -1,0 +1,12 @@
+*   4780e1c Merge branch 'test'
+|\  
+| * b64dd4c Aktualizacja pliku README.md
+| * f507a0e Create files for zadanie 7
+* | f27fb8e Aktualizacja treści pliku README.md
+|/  
+* bf94735 Praca z plikami z zadania 6
+* c203c28 Dodanie pliku GIT_5_diff.txt
+* 1c9f8ef Dodanie pliku README.md
+* b13bfe7 Dodanie plikow status, restore oraz version
+* 4d03c6c Dodanie plików GIT_4_status1.txt oraz GIT_4_status2.txt
+* fcb9b88 Dodanie plików, dodanie opisów pojęć do pliku
