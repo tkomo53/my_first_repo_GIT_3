@@ -1,0 +1,1 @@
+stash@{0}: WIP on master: f9e0cb4 Dodanie pliku GIT_7_branch.txt
