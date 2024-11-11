@@ -1,0 +1,97 @@
+commit edb6d4bb5fcf3a7c874ff43db0882f1e322355ff
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 18:16:38 2024 +0100
+
+    Polaczenie dwoch commitow
+
+commit 6f3818ee7de5d332c24bd82e155818d62e5e2925
+Merge: b497062 605e34e
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 18:13:30 2024 +0100
+
+    Merge branch 'test'
+
+commit 605e34e398253a56a832a980e59064ccb5c086b4
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 18:11:57 2024 +0100
+
+    Zmiany miedzy rewizjami do pliku GIT_8_diff.txt
+
+commit 2cfc7c3d2488f04e2f320cc2fda341aa44d49b89
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 18:08:54 2024 +0100
+
+    Zapisanie git log do pliku GIT_8_log.txt
+
+commit b4970624706f909a7e41347e4586395e2c3fa718
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 18:05:23 2024 +0100
+
+    Dodanie do pliku GIT_8_stash_list.txt listy wpisow na stosie
+
+commit f9e0cb477adf5784a7c6e2b990795ce7a91cbb4f
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 17:56:40 2024 +0100
+
+    Dodanie pliku GIT_7_branch.txt
+
+commit 4780e1cb018404755da4d55c759a394af2a6d0a0
+Merge: f27fb8e b64dd4c
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 17:50:45 2024 +0100
+
+    Merge branch 'test'
+
+commit b64dd4c73ee1b99ed8e91f76ed2c780242322970
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 17:44:11 2024 +0100
+
+    Aktualizacja pliku README.md
+
+commit f27fb8e09542a8240601c187123c7bc84a13433b
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 17:42:09 2024 +0100
+
+    Aktualizacja treści pliku README.md
+
+commit f507a0e1acf20c17d5dd51b55015cfe926d27f70
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 17:38:44 2024 +0100
+
+    Create files for zadanie 7
+
+commit bf94735a34a3555508806975544820319fc23069
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Mon Nov 11 17:15:29 2024 +0100
+
+    Praca z plikami z zadania 6
+
+commit c203c28ae5335fd6d73410375a6d775cca8b4601
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Wed Nov 6 19:03:00 2024 +0100
+
+    Dodanie pliku GIT_5_diff.txt
+
+commit 1c9f8ef6efcfd8c020ca3a88391ed0cce7e7562f
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Wed Nov 6 18:54:54 2024 +0100
+
+    Dodanie pliku README.md
+
+commit b13bfe718db9092f3b801a238a179d2ca8910b1b
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Wed Nov 6 18:50:59 2024 +0100
+
+    Dodanie plikow status, restore oraz version
+
+commit 4d03c6c9e62906975d82292c92ca6647571a3353
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Wed Nov 6 18:42:52 2024 +0100
+
+    Dodanie plików GIT_4_status1.txt oraz GIT_4_status2.txt
+
+commit fcb9b88a27cdf186b34aeb5acac93a0f28a50021
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Wed Nov 6 18:37:57 2024 +0100
+
+    Dodanie plików, dodanie opisów pojęć do pliku
