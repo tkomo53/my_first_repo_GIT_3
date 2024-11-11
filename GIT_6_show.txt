@@ -1,0 +1,15 @@
+commit c203c28ae5335fd6d73410375a6d775cca8b4601
+Author: tkomo53 <tkomo53@gmail.com>
+Date:   Wed Nov 6 19:03:00 2024 +0100
+
+    Dodanie pliku GIT_5_diff.txt
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..c3152e4
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,2 @@
++utworzono plik drugi_plik.txt oraz wpisano do niego treść "Lorem ipsum dolor…"
++następnie zedytowano plik nowy_plik.txt dodając do niego treść "Hello world"
+\ No newline at end of file
