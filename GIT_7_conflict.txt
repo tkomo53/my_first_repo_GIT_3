@@ -1,0 +1,8 @@
+System Kontroli Wersji
+my_first_repo_GIT_3
+Piotr Komorowski
+<<<<<<< HEAD
+4776Praca z galeziami i rozwiazywanie konfliktow
+=======
+4776Tym wpisem chcemy spowodowac konflikt
+>>>>>>> test
